@@ -6,7 +6,7 @@
 - 💞️ I'd like to work together on projects using these different languages to improve my skills. 
 - 📫 How to reach me : You can contact me on LinkedIn here : [<img src="https://github.com/user-attachments/assets/3ad860d3-4086-439e-928f-083015c17986" alt="LinkedIn" width="30px" style="padding-right:10px;" />](https://www.linkedin.com/in/q%C3%A2ssim-osseni-1018/)
 
-
+#
 <div align="left">
   <h2>🛠 Languages & Tools</h2>
   <p>
@@ -19,6 +19,8 @@
     <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </p>
 </div>
+
+#
 
 <div align="left">
   <h2>📊 Stats</h2>
